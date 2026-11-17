@@ -1,0 +1,1 @@
+SELECT QuantityOnHand FROM INVENTORY WHERE QuantityOnHand > 0
